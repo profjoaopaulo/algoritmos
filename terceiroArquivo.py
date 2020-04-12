@@ -1,1 +1,0 @@
-print("Este é o terceiro arquivo!")
